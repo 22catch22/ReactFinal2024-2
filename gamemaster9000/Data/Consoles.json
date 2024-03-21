@@ -1,0 +1,49 @@
+[
+  
+{
+"id":"1",
+"consoleName": "Gamecube",
+"Developer":"Nintendo",
+ 
+"GamesOwned":"15",
+"thumbnail":"/assets/gamecube.png"
+},
+
+{
+  "id":"2",
+  "consoleName": "XBOX",
+  "Developer": "Microsoft",
+ 
+  "GamesOwned":"5",
+ "thumbnail":"'/assets/Xbox.png'"
+  } ,
+
+{ "id":"3",
+  "consoleName": "PlayStation 2",
+  "Developer":"Sony",
+  "GamesOwned":"3",
+  "thumbnail":"/assets/ps2.png"
+  
+},
+
+{
+ "id":"4",
+  "consoleName":"Switch",
+  "Developer":"Nintendo",
+  "GamesOwned":"8",
+  "thumbnail":"/assets/switch.png"
+
+},
+
+{
+  "id":"5",
+ "consoleName": "GameBoy Advance",
+ "Developer":"Nintendo",
+ "GamesOwned":"15",
+ "thumbnail":""
+
+}
+
+
+]
+ 

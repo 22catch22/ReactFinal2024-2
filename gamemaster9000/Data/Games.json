@@ -1,0 +1,62 @@
+[
+ 
+ 
+
+    { 
+       "id":"1", 
+       "Title":"Legend of Zelda: The WindWaker",
+       "Publisher":"Nintendo",
+       "Developer":"Nintendo",
+       "TimesBeaten": "5",
+      "ConsoleName":"GameCube",
+       "GameThumbnail": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/88/TWW_US_PC_Box.jpg/revision/latest/scale-to-width-down/250?cb=20110203205537",
+        "screenshots":""
+    },
+    
+    {       "id":"2", 
+        "Title":"Metroid Prime",
+        "Publisher":"Nintendo",
+        "Developer":"Retro Studios",
+        "TimesBeaten": "4",
+        "ConsoleName":"GameCube",
+        "Thumbnail":"./assets/",
+        "screenshots":""
+      } ,
+    
+    {       "id":"3", 
+        "Title":"Katamari Damacy",
+        "TimesBeaten": "3",
+        "Publisher":"Sony",
+        "Developer":"Namco",
+      
+        "ConsoleName":"PS2"
+      
+    },
+
+
+
+
+    {
+      "id":"4",
+      "Title":"BioShock",
+      "Developer":"2KGames",
+     "Publisher":"Microsoft",
+     "ConsoleName":"XBOX360"  
+    },
+
+
+
+
+    {
+        "id":"5", 
+        "Title":"Crimson Skies",
+        "Publisher":"Microsoft",
+        "TimesBeaten": "2",
+        "Developer":"FASA",
+        "ConsoleName":"XBOX"
+
+    }
+]
+   
+     
+   
